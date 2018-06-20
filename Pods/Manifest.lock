@@ -1,0 +1,16 @@
+PODS:
+  - demoTouchFramework (0.0.1)
+
+DEPENDENCIES:
+  - demoTouchFramework
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - demoTouchFramework
+
+SPEC CHECKSUMS:
+  demoTouchFramework: a3a5c92dce0542b671b7abb7baebf4bceb6b2dc8
+
+PODFILE CHECKSUM: 37baf0729ef796c7769c3eb50e2e1887c7a03499
+
+COCOAPODS: 1.5.3

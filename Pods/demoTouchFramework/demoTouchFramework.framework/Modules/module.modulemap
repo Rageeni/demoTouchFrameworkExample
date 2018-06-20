@@ -1,0 +1,11 @@
+framework module demoTouchFramework {
+  umbrella header "demoTouchFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module demoTouchFramework.Swift {
+    header "demoTouchFramework-Swift.h"
+    requires objc
+}
